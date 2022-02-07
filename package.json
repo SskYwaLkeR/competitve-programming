@@ -1,0 +1,22 @@
+{
+  "name": "competitve-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twoSum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SskYwaLkeR/competitve-programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SskYwaLkeR/competitve-programming/issues"
+  },
+  "homepage": "https://github.com/SskYwaLkeR/competitve-programming#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
