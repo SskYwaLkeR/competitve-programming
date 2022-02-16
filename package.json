@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SskYwaLkeR/competitve-programming#readme",
   "devDependencies": {
-    "prettier": "2.5.1"
+    "prettier": "2.5.1",
+    "typescript": "^4.5.5"
   }
 }
